@@ -3,6 +3,7 @@
     width:18px;
     height:18px;
     vertical-align: middle;
+    text-align:left;
 }
 
 .ff_textbox {
@@ -42,6 +43,7 @@
     width:20%;
     font-weight:bold;
     pointer-events:all;
+    vertical-align: middle;
 }
 
 .ff_fieldspan:hover {
